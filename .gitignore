@@ -3,4 +3,5 @@ venv/
 news_env/
 
 # config - API key
-config.ini 
+api_key = YvJPCqOBjlCK29XGMpFECb77N6C_S_MshApeyNvUQTQ
+
